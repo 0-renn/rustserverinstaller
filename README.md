@@ -144,4 +144,3 @@ If this library made your first rust server, give it a star! <img src="https://r
 
 <img src="https://img.shields.io/badge/⭐-Star_This_Repository-24292e?style=for-the-badge&logo=github" alt="Star Repository">
 </div>
-[GitHub Repository](https://github.com/0-renn/rustserverinstaller/)
