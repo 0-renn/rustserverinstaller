@@ -29,7 +29,7 @@ These scripts install a **Rust dedicated server** on either **Windows 10+** or *
 - **Not for Linux** – use the Linux version below.
 
 #### Installation (Windows)
-1. Download `rustserverinstaller.bat` from **[rustserverinstaller.bat](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_Windows.bat)**.
+1. Download `rustserverinstaller.bat` from **[rustserverinstaller.bat](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_windows.bat)**.
 2. Run the file **as Administrator**.
 3. Follow the on‑screen prompts (branch, plugins, map options, etc.).
 4. After installation, start the server using `StartServer.bat`.
@@ -52,7 +52,7 @@ These scripts install a **Rust dedicated server** on either **Windows 10+** or *
 - **Not for Windows** – use the Windows version above.
 
 #### Installation (Linux)
-1. Download `rustserverinstaller.sh` from **[rustserverinstaller.sh](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_Windows.sh)**.
+1. Download `rustserverinstaller.sh` from **[rustserverinstaller.sh](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_linux.sh)**.
 2. Make it executable: `chmod +x rustserverinstaller.sh`
 3. Run as **root** or with `sudo`: `sudo ./rustserverinstaller.sh`
 4. Follow the on‑screen prompts (branch, plugins, map options, etc.).
@@ -88,7 +88,7 @@ Bu betikler, **Windows 10+** veya **Linux** üzerinde tek bir dosya ile **Rust s
 - **Linux için değil** – aşağıdaki Linux sürümünü kullanın.
 
 #### Kurulum (Windows)
-1. `rustserverinstaller.bat` dosyasını **[rustserverinstaller.bat](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_Windows.bat)** adresinden indirin.
+1. `rustserverinstaller.bat` dosyasını **[rustserverinstaller.bat](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_windows.bat)** adresinden indirin.
 2. Dosyayı **Yönetici olarak çalıştırın**.
 3. Ekrandaki yönergeleri izleyin (sürüm, eklenti, harita seçenekleri vb.).
 4. Kurulum bittikten sonra sunucuyu `StartServer.bat` ile başlatın.
@@ -111,7 +111,7 @@ Bu betikler, **Windows 10+** veya **Linux** üzerinde tek bir dosya ile **Rust s
 - **Windows için değil** – yukarıdaki Windows sürümünü kullanın.
 
 #### Kurulum (Linux)
-1. `rustserverinstaller.sh` dosyasını **[rustserverinstaller.sh](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_Windows.sh)** adresinden indirin.
+1. `rustserverinstaller.sh` dosyasını **[rustserverinstaller.sh](https://github.com/0-renn/rustserverinstaller/releases/download/V1/rust_server_setup_linux.sh)** adresinden indirin.
 2. Çalıştırılabilir yapın: `chmod +x rustserverinstaller.sh`
 3. **root** veya `sudo` ile çalıştırın: `sudo ./rustserverinstaller.sh`
 4. Ekrandaki yönergeleri izleyin (sürüm, eklenti, harita seçenekleri vb.).
