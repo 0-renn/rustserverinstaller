@@ -1,12 +1,17 @@
 <div align="center">
 
 <img src="https://files.facepunch.com/lewis/1b2911b1/rust-marque.svg" width="50"/>
+&nbsp;
+<img src="https://ren.animex.net.tr/emoji/3194-steamhappy.png" width="50"/>
 
 ## Rust Server Installers For Windows 10+ and Linux
 
 <img src="https://avatars.githubusercontent.com/0-renn" width="60"/>  <img src="https://avatars.githubusercontent.com/ErcanDinsel" width="60"/>
 
 &nbsp;&nbsp; **Me** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Buddy**
+
+&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?logo=discord&logoColor=white)](https://discord.com/users/822045780499628042)  &
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/erGHBeFxAm)
 
 </div>
 
@@ -133,5 +138,10 @@ Bu betikler, **Windows 10+** veya **Linux** üzerinde tek bir dosya ile **Rust s
   *Örnek (varsayılan port 28015):* `client.connect 192.168.1.1:28015`
 
 ---
+<div align="center">
+Love This Project?
+If this library made your first rust server, give it a star! <img src="https://ren.animex.net.tr/emoji/3194-steamhappy.png" width="30"/>
 
+<img src="https://img.shields.io/badge/⭐-Star_This_Repository-24292e?style=for-the-badge&logo=github" alt="Star Repository">
+</div>
 [GitHub Repository](https://github.com/0-renn/rustserverinstaller/)
